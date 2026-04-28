@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rbenv versions *)",
+      "Read(//Users/roderick/.rbenv/versions/**)",
+      "Bash(ruby -v)"
+    ]
+  }
+}
