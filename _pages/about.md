@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: SDE Intern @<a href='https://aws.amazon.com/'>Amazon AWS</a> | BS. Computer Engineering @<a href='https://www.purdue.edu/'>Purdue University</a>
 

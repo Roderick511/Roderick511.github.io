@@ -6,6 +6,8 @@ nav: true
 nav_order: 1
 ---
 
+---
+
 ## Education
 
 <div class="card mt-3 p-3">
