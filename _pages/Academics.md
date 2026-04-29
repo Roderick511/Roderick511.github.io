@@ -60,24 +60,25 @@ nav_order: 1
 
 <div class="card mt-3 p-3">
   <div class="row align-items-center">
-    <div class="col-sm-10">
-      <h5 class="mb-0 font-weight-bold">ECE 30200: Probabilistic Methods in Electrical and Computer Engineering</h5>
+    <div class="col-sm-12">
+      <div class="d-flex justify-content-between">
+        <h5 class="mb-0 font-weight-bold">ECE 30200: Probabilistic Methods in Electrical and Computer Engineering</h5>
+        <p class="mb-0 ml-2" style="white-space: nowrap;">Spring 2026</p>
+
+      </div>
       <p class="mb-0 text-muted">Purdue University</p>
-    </div>
-    <div class="col-sm-2 text-right text-muted">
-      <p class="mb-0">Spring 2026</p>
     </div>
   </div>
 </div>
 
 <div class="card mt-3 p-3">
   <div class="row align-items-center">
-    <div class="col-sm-10">
-      <h5 class="mb-0 font-weight-bold">ECE 20001: Electrical Engineering Fundamentals I</h5>
+    <div class="col-sm-12">
+      <div class="d-flex justify-content-between">
+        <h5 class="mb-0 font-weight-bold">ECE 20001: Electrical Engineering Fundamentals I</h5>
+        <p class="mb-0 ml-2" style="white-space: nowrap;">Fall 2025</p>
+      </div>
       <p class="mb-0 text-muted">Purdue University</p>
-    </div>
-    <div class="col-sm-2 text-right text-muted">
-      <p class="mb-0">Fall 2025</p>
     </div>
   </div>
 </div>
