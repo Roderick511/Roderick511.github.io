@@ -49,7 +49,7 @@ nav_order: 1
       </ul>
     </div>
     <div class="col-sm-3 text-right text-muted">
-      <p>2025.01 – 2026.01</p>
+      <p class="mb-0">2025.01 – 2026.01</p>
     </div>
   </div>
 </div>
@@ -65,7 +65,7 @@ nav_order: 1
       <p class="mb-0 text-muted">Purdue University</p>
     </div>
     <div class="col-sm-2 text-right text-muted">
-      <p>Spring 2026</p>
+      <p class="mb-0">Spring 2026</p>
     </div>
   </div>
 </div>
@@ -77,7 +77,7 @@ nav_order: 1
       <p class="mb-0 text-muted">Purdue University</p>
     </div>
     <div class="col-sm-2 text-right text-muted">
-      <p>Fall 2025</p>
+      <p class="mb-0">Fall 2025</p>
     </div>
   </div>
 </div>
