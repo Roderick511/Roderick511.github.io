@@ -242,6 +242,11 @@ The generated website is published to the `gh-pages` branch. Make routine change
 
 Changes to `README.md` alone do not trigger site deployment because the deployment workflow explicitly excludes it.
 
+`Deploy site` builds and publishes the website, so it must succeed for a push to update the live pages. A failed deployment leaves the previous version online.
+Optional CV generation, automatic Markdown table-of-contents updates, upstream Docker image publishing, and link-checking workflows have been removed. Maintain the README contents manually; these removed workflows no longer write generated changes back to `main`.
+
+If a run fails before any steps start, check the run's **Annotations** for account or runner errors. Disabling unrelated checks does not resolve a deployment error or an account restriction. A skipped job simply did not run.
+
 ## Source files and generated files
 
 | Type                                      | Location                                           | Maintenance                                                               |
